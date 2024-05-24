@@ -1,6 +1,6 @@
 ### Profile's Statistics:
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={MatCarvalho21}&theme={transparent}
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatCarvalho21&theme=transparent
 
 ### Resume:
 
