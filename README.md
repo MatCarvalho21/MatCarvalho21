@@ -1,4 +1,10 @@
-### Profile's Statistics:
+# Matheus Carvalho
+
+👋 Olá, sou Matheus Carvalho, estudante de Ciência de Dados e Inteligência Artificial na FGV-RJ, com previsão de formatura em 2026.
+
+🔬 Meus principais interesses, atualmente, envolvem algorítmos de machine learning supervisionados, projetos envolventdo IoT integrados com ciência de dados, coleta, tratamento e visualização.
+
+## 📊 Estatísticas do Perfil:
 <div align="center" >
 <a href="https://github.com/MatCarvalho21">
     
@@ -9,14 +15,9 @@
 </a>
 </div>
 
-### Resume:
-
-- 👋 Hi, I’m Matheus Carvalho a data science student at FGV-RJ;
-- 🌱 I’m currently learning Python, C, C++, IoT and web development.
-
-### I'm Learning (or have worked with):
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="40" height="40" />
-
-### Achievements:
-![github-trophies](https://stats.dooboo.io/api/github-trophies?login=MatCarvalho21)
+## 🏆 Reconhecimentos e Prêmios
+- Medalhista em competições de matemática durante o ensino fundamental e médio. 
+  - Medalha de ouro - OBMEP - 2017
+  - Medalha de ouro - OBA - 2021
+  - Medalha de ouro - Canguru - 2021
+  - Medalha de prata - Canguru - 2022
