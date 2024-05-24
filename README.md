@@ -14,3 +14,5 @@
 
 ### Achievements:
 ![github-trophies](https://stats.dooboo.io/api/github-trophies?login=MatCarvalho21)
+
+![Snake animation](https://github.com/MatCarvalho21/MatCarvalho21/blob/output/github-contribution-grid-snake.svg)
