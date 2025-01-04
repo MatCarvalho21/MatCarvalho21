@@ -4,6 +4,9 @@
 
 🔬 Meus principais interesses, atualmente, envolvem algorítmos de machine learning supervisionados, projetos envolventdo IoT integrados com ciência de dados, coleta, tratamento e visualização.
 
+## 📂 Portifólio:
+[![Main Repository](https://github-readme-stats.vercel.app/api/pin/?username=MatCarvalho21&repo=PortifolioDeProjetos)](https://github.com/MatCarvalho21/PortifolioDeProjetos)
+
 ## 📊 Estatísticas do Perfil:
 <div align="center" >
 <a href="https://github.com/MatCarvalho21">
