@@ -6,7 +6,6 @@
 
 ## 📂 Portfolio:
 [![Main Repository](https://github-readme-stats.vercel.app/api/pin/?username=MatCarvalho21&repo=PortifolioDeProjetos)](https://github.com/MatCarvalho21/PortifolioDeProjetos)
-[![Quinto Período](https://github-readme-stats.vercel.app/api/pin/?username=MatCarvalho21&repo=QuintoPeriodoCDEMAp)](https://github.com/MatCarvalho21/QuintoPeriodoCDEMAp)
 
 ## 📊 Profile Stats:
 <div align="center">
