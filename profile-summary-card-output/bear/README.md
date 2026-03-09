@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/MatCarvalho21/MatCarvalho21/master/profile-summary-card-output/bear/4-productive-time.svg)
+```
+
+    
